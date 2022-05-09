@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dobby9309
 - 👀 I’m interested in JAVA
-- 🌱 I’m currently learning JAVA,Jsp,SpringPraimWork
+- 🌱 I’m currently learning to JAVA, Jsp, SpringPraimWork
 <!---
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
